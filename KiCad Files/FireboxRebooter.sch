@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "FireboxRebooter"
-Date "2021-12-24"
-Rev "1.0"
+Date "2022-01-05"
+Rev "1.1"
 Comp "qete.sh/el"
 Comment1 ""
 Comment2 ""
@@ -40,7 +40,7 @@ L Device:C C1
 U 1 1 61BBCAE3
 P 1850 2000
 F 0 "C1" V 1598 2000 50  0000 C CNN
-F 1 "C" V 1689 2000 50  0000 C CNN
+F 1 "100nF" V 1689 2000 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 1888 1850 50  0001 C CNN
 F 3 "~" H 1850 2000 50  0001 C CNN
 	1    1850 2000
